@@ -1,0 +1,14 @@
+C:\Users\ASUS-T\source\repos\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Abc.Northwind.DataAccess.deps.json
+C:\Users\ASUS-T\source\repos\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Abc.Northwind.DataAccess.dll
+C:\Users\ASUS-T\source\repos\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Abc.Northwind.DataAccess.pdb
+C:\Users\ASUS-T\source\repos\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Abc.Core.dll
+C:\Users\ASUS-T\source\repos\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Abc.Northwind.Entities.dll
+C:\Users\ASUS-T\source\repos\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Abc.Core.pdb
+C:\Users\ASUS-T\source\repos\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.1\Abc.Northwind.Entities.pdb
+C:\Users\ASUS-T\source\repos\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Abc.Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\ASUS-T\source\repos\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Abc.Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-T\source\repos\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Abc.Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ASUS-T\source\repos\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Abc.Northwind.DataAccess.AssemblyInfo.cs
+C:\Users\ASUS-T\source\repos\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Abc.Northwind.DataAccess.csproj.CopyComplete
+C:\Users\ASUS-T\source\repos\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Abc.Northwind.DataAccess.dll
+C:\Users\ASUS-T\source\repos\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.1\Abc.Northwind.DataAccess.pdb
